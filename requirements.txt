@@ -2,6 +2,6 @@ streamlit==1.50.0
 pillow==11.3.0
 pytesseract==0.3.13
 opencv-python-headless==4.12.0.88
-rapidfuzz==3.14.1
+rapidfuzz>=3.14.1
 pandas==2.3.2
 numpy==2.2.6
